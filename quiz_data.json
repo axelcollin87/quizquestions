@@ -2,28 +2,33 @@
     "quizTitle": "Awesome Sample Quiz",
     "questions": [
         {
+            "id": "q1",
             "type": "text",
             "question": "What is the capital of France?",
             "answer": "Paris"
         },
         {
+            "id": "q2",
             "type": "radio",
             "question": "What is the highest mountain in the world?",
             "options": ["K2", "Mount Everest", "Kangchenjunga", "Lhotse"],
             "answer": "Mount Everest"
         },
         {
+            "id": "q3",
             "type": "checkbox",
             "question": "Which of these colors are primary colors?",
             "options": ["Red", "Green", "Yellow", "Blue"],
             "answer": ["Red", "Yellow", "Blue"]
         },
         {
+            "id": "q4",
             "type": "text",
             "question": "In what year did World War II begin?",
             "answer": "1939"
         },
         {
+            "id": "q5",
             "type": "radio",
             "question": "Who painted the Mona Lisa?",
             "options": [
