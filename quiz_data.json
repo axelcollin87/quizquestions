@@ -38,6 +38,306 @@
                 "Pablo Picasso"
             ],
             "answer": "Leonardo da Vinci"
+        },
+        {
+            "id": "q6",
+            "type": "text",
+            "question": "What element does 'O' represent on the periodic table?",
+            "answer": "Oxygen"
+        },
+        {
+            "id": "q7",
+            "type": "radio",
+            "question": "Which planet is known as the Red Planet?",
+            "options": ["Mars", "Jupiter", "Saturn", "Venus"],
+            "answer": "Mars"
+        },
+        {
+            "id": "q8",
+            "type": "checkbox",
+            "question": "Which of the following are gas giants?",
+            "options": ["Mercury", "Jupiter", "Uranus", "Mars"],
+            "answer": ["Jupiter", "Uranus"]
+        },
+        {
+            "id": "q9",
+            "type": "text",
+            "question": "Who wrote 'Hamlet'?",
+            "answer": "William Shakespeare"
+        },
+        {
+            "id": "q10",
+            "type": "radio",
+            "question": "What is the largest ocean on Earth?",
+            "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+            "answer": "Pacific Ocean"
+        },
+        {
+            "id": "q11",
+            "type": "checkbox",
+            "question": "Which of these elements are noble gases?",
+            "options": ["Helium", "Oxygen", "Argon", "Carbon"],
+            "answer": ["Helium", "Argon"]
+        },
+        {
+            "id": "q12",
+            "type": "text",
+            "question": "What is the capital of Japan?",
+            "answer": "Tokyo"
+        },
+        {
+            "id": "q13",
+            "type": "radio",
+            "question": "Who discovered penicillin?",
+            "options": ["Marie Curie", "Alexander Fleming", "Isaac Newton", "Albert Einstein"],
+            "answer": "Alexander Fleming"
+        },
+        {
+            "id": "q14",
+            "type": "checkbox",
+            "question": "Which countries are permanent members of the United Nations Security Council?",
+            "options": ["United States", "Germany", "China", "Russia", "United Kingdom"],
+            "answer": ["United States", "China", "Russia", "United Kingdom"]
+        },
+        {
+            "id": "q15",
+            "type": "text",
+            "question": "What is the speed of light in vacuum?",
+            "answer": "299,792 kilometers per second"
+        },
+        {
+            "id": "q16",
+            "type": "radio",
+            "question": "What is the hardest natural substance on Earth?",
+            "options": ["Gold", "Iron", "Diamond", "Quartz"],
+            "answer": "Diamond"
+        },
+        {
+            "id": "q17",
+            "type": "checkbox",
+            "question": "Which of the following vitamins are soluble in water?",
+            "options": ["Vitamin A", "Vitamin C", "Vitamin D", "Vitamin B"],
+            "answer": ["Vitamin C", "Vitamin B"]
+        },
+        {
+            "id": "q18",
+            "type": "text",
+            "question": "Who is known as the father of computers?",
+            "answer": "Charles Babbage"
+        },
+        {
+            "id": "q19",
+            "type": "radio",
+            "question": "What is the smallest country in the world?",
+            "options": ["Monaco", "Nauru", "Vatican City", "Tuvalu"],
+            "answer": "Vatican City"
+        },
+        {
+            "id": "q20",
+            "type": "checkbox",
+            "question": "Which of these are examples of renewable energy sources?",
+            "options": ["Coal", "Solar", "Nuclear", "Wind"],
+            "answer": ["Solar", "Wind"]
+        },
+        {
+            "id": "q21",
+            "type": "text",
+            "question": "In which country is the Great Barrier Reef located?",
+            "answer": "Australia"
+        },
+        {
+            "id": "q22",
+            "type": "radio",
+            "question": "What is the chemical symbol for gold?",
+            "options": ["Au", "Ag", "Ge", "Ga"],
+            "answer": "Au"
+        },
+        {
+            "id": "q23",
+            "type": "checkbox",
+            "question": "Which of these are fundamental forces in physics?",
+            "options": ["Gravity", "Electromagnetism", "Friction", "Strong Nuclear"],
+            "answer": ["Gravity", "Electromagnetism", "Strong Nuclear"]
+        },
+        {
+            "id": "q24",
+            "type": "text",
+            "question": "What is the longest river in the world?",
+            "answer": "Nile"
+        },
+        {
+            "id": "q25",
+            "type": "radio",
+            "question": "Who is the author of '1984'?",
+            "options": ["George Orwell", "Aldous Huxley", "Ray Bradbury", "Philip K. Dick"],
+            "answer": "George Orwell"
+        },
+        {
+            "id": "q26",
+            "type": "checkbox",
+            "question": "Which of these are layers of the Earth's atmosphere?",
+            "options": ["Troposphere", "Mesosphere", "Exosphere", "Lithosphere"],
+            "answer": ["Troposphere", "Mesosphere", "Exosphere"]
+        },
+        {
+            "id": "q27",
+            "type": "text",
+            "question": "What is the main ingredient in traditional sushi?",
+            "answer": "Vinegared rice"
+        },
+        {
+            "id": "q28",
+            "type": "radio",
+            "question": "What does DNA stand for?",
+            "options": ["Deoxyribonucleic Acid", "Deoxyribogenetic Acid", "Dicarboxylic Nucleic Acid", "Dinucleotide Acid"],
+            "answer": "Deoxyribonucleic Acid"
+        },
+        {
+            "id": "q29",
+            "type": "checkbox",
+            "question": "Which of the following are prime numbers?",
+            "options": ["2", "4", "11", "15"],
+            "answer": ["2", "11"]
+        },
+        {
+            "id": "q30",
+            "type": "text",
+            "question": "Who composed the Four Seasons?",
+            "answer": "Antonio Vivaldi"
+        },
+        {
+            "id": "q31",
+            "type": "radio",
+            "question": "What gas do plants absorb from the atmosphere for photosynthesis?",
+            "options": ["Carbon Dioxide", "Oxygen", "Nitrogen", "Hydrogen"],
+            "answer": "Carbon Dioxide"
+        },
+        {
+            "id": "q32",
+            "type": "checkbox",
+            "question": "Which continents does the equator cross?",
+            "options": ["Africa", "Asia", "Australia", "South America"],
+            "answer": ["Africa", "South America"]
+        },
+        {
+            "id": "q33",
+            "type": "text",
+            "question": "What is the largest mammal in the world?",
+            "answer": "Blue whale"
+        },
+        {
+            "id": "q34",
+            "type": "radio",
+            "question": "In what country did the Industrial Revolution begin?",
+            "options": ["France", "United States", "Germany", "United Kingdom"],
+            "answer": "United Kingdom"
+        },
+        {
+            "id": "q35",
+            "type": "checkbox",
+            "question": "Which planets in our solar system have rings?",
+            "options": ["Mars", "Jupiter", "Neptune", "Venus"],
+            "answer": ["Jupiter", "Neptune"]
+        },
+        {
+            "id": "q36",
+            "type": "text",
+            "question": "What is the formula for water?",
+            "answer": "H2O"
+        },
+        {
+            "id": "q37",
+            "type": "radio",
+            "question": "Which of these elements is a liquid at room temperature?",
+            "options": ["Mercury", "Lead", "Gold", "Silver"],
+            "answer": "Mercury"
+        },
+        {
+            "id": "q38",
+            "type": "checkbox",
+            "question": "Which of the following languages are official UN languages?",
+            "options": ["English", "Spanish", "Japanese", "Arabic"],
+            "answer": ["English", "Spanish", "Arabic"]
+        },
+        {
+            "id": "q39",
+            "type": "text",
+            "question": "What city is known as the City of Love?",
+            "answer": "Paris"
+        },
+        {
+            "id": "q40",
+            "type": "radio",
+            "question": "What is the largest desert in the world?",
+            "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+            "answer": "Antarctic"
+        },
+        {
+            "id": "q41",
+            "type": "checkbox",
+            "question": "Which of these countries are in the European Union?",
+            "options": ["Norway", "Germany", "Italy", "Switzerland"],
+            "answer": ["Germany", "Italy"]
+        },
+        {
+            "id": "q42",
+            "type": "text",
+            "question": "Who invented the telephone?",
+            "answer": "Alexander Graham Bell"
+        },
+        {
+            "id": "q43",
+            "type": "radio",
+            "question": "What is the main component of the Sun?",
+            "options": ["Liquid lava", "Gasoline", "Hydrogen gas", "Solid iron"],
+            "answer": "Hydrogen gas"
+        },
+        {
+            "id": "q44",
+            "type": "checkbox",
+            "question": "Which of the following are states of matter?",
+            "options": ["Solid", "Liquid", "Gas", "Plasma"],
+            "answer": ["Solid", "Liquid", "Gas", "Plasma"]
+        },
+        {
+            "id": "q45",
+            "type": "text",
+            "question": "What is the capital of Canada?",
+            "answer": "Ottawa"
+        },
+        {
+            "id": "q46",
+            "type": "radio",
+            "question": "What vitamin is produced when the human body is exposed to sunlight?",
+            "options": ["Vitamin A", "Vitamin B12", "Vitamin D", "Vitamin C"],
+            "answer": "Vitamin D"
+        },
+        {
+            "id": "q47",
+            "type": "checkbox",
+            "question": "Which of the following countries border France?",
+            "options": ["Spain", "Norway", "Germany", "Italy"],
+            "answer": ["Spain", "Germany", "Italy"]
+        },
+        {
+            "id": "q48",
+            "type": "text",
+            "question": "How many planets are in our solar system?",
+            "answer": "8"
+        },
+        {
+            "id": "q49",
+            "type": "radio",
+            "question": "Which animal is known as the King of the Jungle?",
+            "options": ["Lion", "Elephant", "Tiger", "Gorilla"],
+            "answer": "Lion"
+        },
+        {
+            "id": "q50",
+            "type": "checkbox",
+            "question": "Which of these are Ivy League universities?",
+            "options": ["Harvard", "Stanford", "Yale", "Princeton"],
+            "answer": ["Harvard", "Yale", "Princeton"]
         }
     ]
 }
